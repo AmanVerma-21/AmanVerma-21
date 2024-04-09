@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center">A passionate AI learner from India, currently i'm sharping my ML & DL skills.</h3>
+<h3 align="center">A passionate AI learner from India, currently i'm a 1st year phd student in IISc ECE dept.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
